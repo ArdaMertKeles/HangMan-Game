@@ -1,4 +1,4 @@
-# This is a classical Hangman Game.
+# This is a classical Hangman Game. [Live Server](https://minehangmangame.netlify.app/)
 
 Main goal is as its written in the instructions you should guess the hidden word by firstly guessing words before hanging man is fully drawen.
 If you couldnt manage to find the hidden word before 7 guesses you get -2 score points.
@@ -6,6 +6,7 @@ But if you find the hidden word you get +3 points.
 
 ![image](https://github.com/user-attachments/assets/0aaef33e-f023-4153-93fd-533eda9db7f5)
 
+![Ekran görüntüsü 2024-10-06 181145](https://github.com/user-attachments/assets/4216efc9-4a89-4821-a19a-792ffe6059ae)
 
 ## Getting Started with Create React App
 
